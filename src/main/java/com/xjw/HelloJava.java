@@ -6,5 +6,6 @@ public class HelloJava {
         System.out.println("你好，世界1");
         System.out.println("你好，世界3");
         System.out.println("你好，世界4");
+        System.out.println("你好，世界4");
     }
 }
