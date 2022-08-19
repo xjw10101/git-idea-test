@@ -10,5 +10,6 @@ public class HelloJava {
         System.out.println("你好，master test");
         System.out.println("你好，master test1");
         System.out.println("你好，hot-fix test2");
+        System.out.println("你好，hot-fix test3");
     }
 }
