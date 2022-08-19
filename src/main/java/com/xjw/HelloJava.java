@@ -22,5 +22,6 @@ public class HelloJava {
         System.out.println("你好，master test7");
         System.out.println("你好，master test8");
         System.out.println("你好，master test9");
+        System.out.println("你好，master test10");
     }
 }
